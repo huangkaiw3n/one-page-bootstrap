@@ -1,0 +1,22 @@
+{
+  "name": "esermon",
+  "version": "1.0.0",
+  "description": "True Jesus Church Esermon Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangkaiw3n/esermon.git"
+  },
+  "author": "Huang Kaiwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangkaiw3n/esermon/issues"
+  },
+  "homepage": "https://github.com/huangkaiw3n/esermon#readme",
+  "dependencies": {
+    "restify": "4.3.0"
+  }
+}
